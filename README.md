@@ -1,7 +1,7 @@
 # tuya-rele-WB2S-smart-switch-
 
 <p>
-Configure tuya switch OpenBK7231T
+Configure tuya switch OpenBK7231N
 </p>
 <img src="https://github.com/Alexxx113/tuya-rele-WB2S-smart-switch-/blob/main/IMG_20220717_025042.jpg" alt="альтернативный текст" />
 <img src="https://github.com/Alexxx113/tuya-rele-WB2S-smart-switch-/blob/main/IMG_20220717_025051.jpg" alt="альтернативный текст" />
