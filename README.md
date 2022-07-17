@@ -22,6 +22,12 @@ Configure tuya switch OpenBK7231N
 <p></p>
 <p>connect uart 3.3v !!!!</p>
 
+<a href="https://github.com/OpenBekenIOT/hid_download_py">Python bk flasher</a>
+
+<p>Flash BK7231N QIO binary, like that:</p>
+
+<p>python uartprogram W:\GIT\OpenBK7231N\apps\OpenBK7231N_App\output\1.0.0\OpenBK7231N_app_QIO_1.0.0.bin --unprotect -d com10 -w --startaddr 0x0</p>
+
 
 <p></p>
 <b>configure module:</b>
