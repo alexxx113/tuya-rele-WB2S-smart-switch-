@@ -1,0 +1,1 @@
+# tuya-rele-WB2S-smart-switch-
