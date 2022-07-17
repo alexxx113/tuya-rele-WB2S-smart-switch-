@@ -28,6 +28,10 @@ Configure tuya switch OpenBK7231N
 
 <p>python uartprogram W:\GIT\OpenBK7231N\apps\OpenBK7231N_App\output\1.0.0\OpenBK7231N_app_QIO_1.0.0.bin --unprotect -d com10 -w --startaddr 0x0</p>
 
+<p></p>
+<p>conect new WIFI "openbk..."</p>
+<p>go "192.168.4.1"</p>
+<p>configure WIFI</p>
 
 <p></p>
 <b>configure module:</b>
