@@ -37,8 +37,8 @@ Configure tuya switch OpenBK7231N
 <b>configure module:</b>
 <p></p>
 <p>P7 wifi_led_n 0</p>
-<p>P24 btn 1</p>
-<p>P26 rel 1</p>
+<p>P24 rel 1</p>
+<p>P26 btn 1</p>
 
 <p>configure MQTT</p>
 
